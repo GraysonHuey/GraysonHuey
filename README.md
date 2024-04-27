@@ -22,6 +22,8 @@ How to reach me: [Email](mailto:graysonhuey02@gmail.com)
 <br>
 Pronouns: He/Him
 <br><br>
+Currently working on: My AP CSP Create Task (sadly I'm not allowed to share it with you)
+<br><br>
 You can find info about me down below, such as IDEs and software I use, as well as good places to gain more knowledge about coding!
 
 ## My programming languages
