@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # Hello, my name is Grayson Huey
-I am currently a high school sophomore who loves everything computer science. <br>At the moment, I am enrolled in my school's AP Computer Science Principles course and will continue on with computer science through the rest of high school.
+I am currently a high school sophomore who loves everything computer science. <br>At the moment, I am enrolled in my school's AP Computer Science A course and will continue on with computer science through the rest of high school.
 <br><br>
-My first programming language was Python, and it was completely self-taught. I am currently teaching myself how to code in C# and Java, and it is going incredibly well.
+My first programming language was Python, and it was completely self-taught. I am currently teaching myself how to code in C and a little bit of Asssembly (x86_64 FASM), and it is going incredibly well.
 <br><br>
 How to reach me: [Email](mailto:graysonhuey02@gmail.com)
 <br>
